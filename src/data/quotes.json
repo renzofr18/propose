@@ -1,0 +1,35 @@
+{
+  "qoutes": [
+    {
+      "id": "Q2",
+      "text": "Eres la persona que más ha cambiado mi vida y la que más deseo que jamás se vaya.",
+      "image": "/images/imagen3.jpg"
+    },
+    {
+      "id": "Q3",
+      "text": "La sonrisa tan bella que tienes hace que mi mente entre en calma y me enamore aún más.",
+      "image": "/images/imagen2.jpg"
+    },
+    {
+      "id": "Q4",
+      "text": "Ninguna otra persona me hace sentir los sentimientos que tú me provocoas.",
+      "image": "/images/imagen1.jpg"
+    },
+    {
+      "id": "Q5",
+      "text": "Con un simple mensaje hiciste que mi vida de un giro tremendo, encontrar la felicidad y sentimiento de no querer dejar de estar contigo.",
+      "image": "/images/imagen7.jpg"
+    },
+    {
+      "id": "Q6",
+      "text": "Sé que no soy el novio perfecto que tanto deseas, sé que es difícil para ti estar conmigo y que algunas veces no nos entendemos, pero...",
+      "image": "/images/imagen6.jpg"
+    }
+  ],
+  "propose": {
+    "id": "finished",
+    "text": "¿Desearías pasar San Valentín conmigo?",
+    "subtext": "Espero tu mensaje por Whatsapp",
+    "image": "/images/imagen4.jpg"
+  }
+}
